@@ -1,0 +1,15 @@
+/Users/zain/Desktop/projects/skinet/Infrastructure/bin/Debug/net9.0/Infrastructure.deps.json
+/Users/zain/Desktop/projects/skinet/Infrastructure/bin/Debug/net9.0/Infrastructure.dll
+/Users/zain/Desktop/projects/skinet/Infrastructure/bin/Debug/net9.0/Infrastructure.pdb
+/Users/zain/Desktop/projects/skinet/Infrastructure/bin/Debug/net9.0/Core.dll
+/Users/zain/Desktop/projects/skinet/Infrastructure/bin/Debug/net9.0/Core.pdb
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.AssemblyInfo.cs
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastr.15EFFBFE.Up2Date
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.dll
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/refint/Infrastructure.dll
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
+/Users/zain/Desktop/projects/skinet/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll
