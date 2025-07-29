@@ -9,3 +9,4 @@
 /Users/zain/Desktop/projects/skinet/Core/obj/Debug/net9.0/refint/Core.dll
 /Users/zain/Desktop/projects/skinet/Core/obj/Debug/net9.0/Core.pdb
 /Users/zain/Desktop/projects/skinet/Core/obj/Debug/net9.0/ref/Core.dll
+/Users/zain/Desktop/projects/skinet/Core/obj/Debug/net9.0/Core.sourcelink.json
